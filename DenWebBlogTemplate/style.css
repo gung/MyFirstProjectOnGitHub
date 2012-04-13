@@ -1,0 +1,72 @@
+/*
+тренировочная верстка с denweb
+*/
+
+@import url("reset.css");
+
+/*general styles*/
+
+html{
+    height: 100%;
+}
+
+body{
+    padding-top: 25px;
+    background: #c6c3c3;    
+    font-family: Arial;
+    color: #4f5259;
+    min-height: 100%;
+}
+
+p{
+    font-size: 14px;
+    color: #4f5259;
+}
+
+a{
+    outline: none;
+    text-decoration: none;
+    color: #868686;
+}
+
+#wraper{
+    width: 960px;
+    background: #ededed;
+    margin: 0 auto;
+}
+
+
+
+
+#header_top {
+    height: 67;
+    background: #1a1e27;
+}
+
+#header_top ul li{
+    float: left;
+    margin-left: 15px;
+}
+
+#header_top ul li a{
+    margin-top: 10px; 
+}
+
+#rss{
+    width: 200px;
+    
+}
+
+#rss a{
+    display: block;
+    padding-bottom: 5px;
+    float: left;
+}
+
+#header_bottom{
+    height: 140px;
+}
+
+
+
+

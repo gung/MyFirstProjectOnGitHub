@@ -1,7 +1,8 @@
+
 #output
 {
     width: 500px;
-    min-height: 200px;
+    height: 200px;
     border: 1px solid black;
     overflow: scroll;
 }
